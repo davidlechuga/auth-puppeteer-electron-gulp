@@ -1,0 +1,20 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "async": "nodemon callback.js",
+    "promises": "nodemon promises.js",
+    "hell": "nodemon callbackHell.js",
+    "await": "nodemon asyncAwait.js",
+    "buffer": "nodemon buffer.js",
+    "stream": "nodemon stream.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

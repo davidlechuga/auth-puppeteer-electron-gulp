@@ -1,0 +1,5 @@
+Este 
+texto
+pasa 
+por buffer
+y es decodificado
